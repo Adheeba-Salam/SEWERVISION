@@ -110,3 +110,36 @@ dataset/
 ├── train/
 ├── valid/
 └── test/
+SewerVision-AI/
+│
+├── train/
+│   └── Training dataset
+│
+├── valid/
+│   └── Validation dataset
+│
+├── test/
+│   └── Testing dataset
+│
+├── check.py
+│   └── Dataset / image checking utilities
+│
+├── interface2.py
+│   └── Application interface
+│
+├── predict_pipesimage.py
+│   └── Image-based pipe detection
+│
+├── pedict_pipesvideo.py
+│   └── Video-based pipe detection
+│
+├── pipe.yaml
+│   └── Dataset configuration
+│
+├── Requirements.txt
+│   └── Python dependencies
+│
+├── .env.example
+│   └── Example environment configuration
+│
+└── README.md
