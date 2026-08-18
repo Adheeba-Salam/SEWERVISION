@@ -110,6 +110,19 @@ dataset/
 ├── train/
 ├── valid/
 └── test/
+
+Research & Academic Work
+
+Research Topic:
+Deep Learning-Based Detection of Unauthorized Pipe Connections in Sewer Systems
+
+Conference:
+6th International Conference on Smart Data Intelligence (ICSMDI 2026)
+
+Publication:
+Springer Conference Proceedings
+
+This project combines academic research with an implementation-oriented computer vision pipeline for infrastructure inspection.
 SewerVision-AI/
 │
 ├── train/
